@@ -7,7 +7,8 @@ if __name__ == "__main__" :
   print("Hola mundo")
 ```
 ##### **1. Bloc de notas y correrlo en el terminal**
-Al tener el archivo en el bloc de notas se guardará como archivo .py el cual se abrirá posteriormente con una consola[![Captura-de-pantalla-2024-10-30-182854.png](https://i.postimg.cc/C1vRTqBV/Captura-de-pantalla-2024-10-30-182854.png)](https://postimg.cc/YGWrQjzX)
+Al tener el archivo en el bloc de notas se guardará como archivo .py el cual se abrirá posteriormente con una consola
+[![Captura-de-pantalla-2024-10-30-182854.png](https://i.postimg.cc/C1vRTqBV/Captura-de-pantalla-2024-10-30-182854.png)](https://postimg.cc/YGWrQjzX)
 
 Con clic derecho y en más opciones, seleccionamos git bash 
 
