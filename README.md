@@ -1,7 +1,7 @@
 # Firstworld
 ## Reto 2
 ## pcd_unal_clase2/ Maria Fernanda Parra Osorio-UNAL 
-Utilicé este codigo para ejecutar en 3 distintas plataformas
+Utilicé este codigo para ejecutar con 3 herramientas
 ```
 if __name__ == "__main__" :
   print("Hola mundo")
